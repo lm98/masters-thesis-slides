@@ -80,8 +80,8 @@ DEF() double gradient(ARGS, bool source) { CODE
 transition: slide-left
 ---
 # The RuFi project
-Has the objectives of:
-- providing a high-level DSL for Aggregate Computing, akin to ScaFi;
+It exploits the features of the Rust programming language to:
+- provide a high-level DSL for Aggregate Computing, akin to ScaFi;
 - support a vast number of devices, even resource-constrained ones, akin to FCPP.
 
 ```rust
